@@ -12,6 +12,8 @@ I enjoy building native apps, web3 development, open source, and exploring topic
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-spinazzola)
 [![Twitter](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Luca_Spinazzola)
 
+<img src="https://github-readme-stats-luca992s-projects.vercel.app/api?username=luca992&show_icons=true&theme=radical" alt="GitHub Stats" />
+
 
 <!--
 **luca992/luca992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
