@@ -1,6 +1,6 @@
 # Hi there, I'm Luca! 👋
 
-I’m a passionate software developer, problem solver, and founder building [Eqoty Labs](https://github.com/eqoty-labs) 🎧. 
+I’m a passionate software developer, problem solver, and founder of [Eqoty Labs](https://github.com/eqoty-labs) 🎧. 
 
 I enjoy building native apps, web3 development, open source, and exploring topics in computer vision & edge ML.
 
