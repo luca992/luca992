@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Luca! 👋
+
+I’m a passionate software developer, problem solver, and founder building [Eqoty Labs](https://github.com/eqoty-labs) 🎧. 
+
+I enjoy building native apps, web3 development, open source, and exploring topics in computer vision & edge ML.
+
+## 🚀 Current Favorite Languages
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## 📫 Connect with Me
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-spinazzola)
+[![Twitter](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Luca_Spinazzola)
+
 
 <!--
 **luca992/luca992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
